@@ -1,6 +1,7 @@
 # Nagyhazi_Sordinger
 
 Team name: Sordinger
+
 Members:
 Bognár Adél (DRFALL),
 Első Jázmin (D9RU5P),
